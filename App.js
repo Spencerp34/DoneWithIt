@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Welcome to Done With It!</Text>
       <Text>Learning the Basics</Text>
-      <Text>OS Agnostic?</Text>
+      <Text>Work in progress</Text>
       <StatusBar style="auto" />
     </View>
   );
